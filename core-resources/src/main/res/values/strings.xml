@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_network">Network error. Please check your internet connection and try again.</string>
+    <string name="error_not_found">Resource not found. Please try again later.</string>
+    <string name="error_not_authorized">Not authorized. Please log in and try again.</string>
+    <string name="error_service_unavailable">Service temporarily unavailable. Please try again later.</string>
+    <string name="error_service_not_working">Service is not working. Please try again later.</string>
+    <string name="error_unknown">An unknown error occurred. Please try again later.</string>
+    <string name="error_no_results">No results found. Please try again later.</string>
+    <string name="home_screen_title">Sportscaster</string>
+    <string name="vs">vs</string>
+</resources>
